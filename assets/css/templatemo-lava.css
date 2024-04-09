@@ -666,7 +666,6 @@ welcome
   position: relative;
   align-self: center;
   margin-top: 35%;
-  margin-left: 15%;
   transform: perspective(1px) translateY(-30%) !important;
 }
 
