@@ -765,7 +765,8 @@ about
   padding: 60px 30px;
   text-align: center;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
-  min-height: 520px;
+  min-height: 620px;
+  max-width: 300px;
 }
 
 .features-item h2 {
