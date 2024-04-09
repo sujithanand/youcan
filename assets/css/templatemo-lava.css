@@ -693,6 +693,12 @@ welcome
   margin-bottom: 40px;
   position: relative;
 }
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 
 @media (max-width: 1420px) {
   .welcome-area .header-text {
