@@ -1244,3 +1244,10 @@ preloader
     opacity: 0;
   }
 }
+
+.aboutusContainer{
+
+  padding: 40px 20px;
+  background-color: #e9ecef;
+  margin: 10%;
+}
